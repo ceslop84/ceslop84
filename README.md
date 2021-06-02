@@ -1,7 +1,5 @@
 # About me
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHyD24APw8Oqg/profile-displayphoto-shrink_200_200/0/1563928858029?e=1628121600&v=beta&t=pNqwXvv3x6VLF9m18g4YeKCMMNl4vlpVqGM1F-jt5Jw" width="100"> 
-
 Hi I'm Cesar Rafael Lopes, @ceslop84, and I hold an undergraduate degree in Cartographic Engineering and a postgraduate certificate in Software Engineering. 
 
 My experience during my professional career allowed me to gain necessary experience to obtain and manage spatial data and to conceive GIS projects. 
