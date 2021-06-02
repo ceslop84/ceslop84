@@ -2,7 +2,7 @@
 
 Hi I'm Cesar Rafael Lopes, @ceslop84, and I hold an undergraduate degree in Cartographic Engineering and a postgraduate certificate in Software Engineering. 
 
-My experience during my professional career allowed me to gain necessary experience to obtain and manage spatial data and to conceive GIS projects. 
+My professional career allowed me to gain necessary experience to obtain and manage spatial data and to conceive GIS projects. 
 
 I'm currently inrolled in a [Master in Electrical Engineering and Industrial Computing](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/cpgei/english) regarding Machine Learning and Digital Image Processing at UTFPR, Curitiba - Brazil. 
 
