@@ -20,9 +20,9 @@ I'm interested in technical topics as:
 * FME (ETL)
 * AutoCAD & MicroStation
 
-## Management interests
+## Other interests
 
-I'm also interested in management topics such:
+I'm also interested in topics such:
 
 * Agile Product Ownership
 * Microsoft Project
